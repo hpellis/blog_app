@@ -42,3 +42,8 @@ Run the app file.
 Navigate to the local host address in your browser to see the app running. 
 
 In order for the password reset feature to work, export environment variables EMAIL_USER and EMAIL_PASS (gmail address and app password) in .bash_profile.
+
+<img src="/final_images/final_version.png"
+     alt="Image of application home page"
+     style="float: left; margin-right: 10px;" />
+
